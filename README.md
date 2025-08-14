@@ -65,11 +65,4 @@ predict_cuisine_test: predict_cuisine function is called with a single test case
 
 - Provided that the ingredients entered via the command line interface (CLI) are present in the yummly.json file.
 
-## Video
-
-
-
-https://user-images.githubusercontent.com/114453047/235035503-cb132adf-35a2-4a80-b4c9-acbba30cedfa.mp4
-
-
 
