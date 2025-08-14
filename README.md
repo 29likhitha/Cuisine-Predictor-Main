@@ -1,4 +1,4 @@
-## HARSHA VARDHAN (Donkada.H.Vardhan-1@ou.edu)
+## Likhitha Gundre (likhitha@ou.edu)
 
 ## Description
 The aim of this project is to develop an application that can receive a list of ingredients from the user and provide predictions on the type of cuisine and suggest similar meals. The project follows a set of steps, which are as - Training (or indexing for search) the food data that is provided, Requesting the user to input the ingredients they are interested in through command-line arguments, Utilizing the model (or search index) to forecast the type of cuisine and conveying the results to the user and Identifying the top-N closest foods (with N defined by a command-line parameter) and sharing the dish IDs with the user.
